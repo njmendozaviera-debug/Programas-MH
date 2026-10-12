@@ -22,4 +22,4 @@ for i in range(100):
 
 print(f"Iteraciones: {i}")
 print(f"El valor aproximado de la raiz es: {x1}")
-print(f"El valor de f(c) es: ({f(x1)})")
+print(f"El valor de f({x1}) es: ({f(x1)})")
