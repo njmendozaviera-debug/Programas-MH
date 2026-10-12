@@ -40,7 +40,6 @@ else:
             print(f"Listo, Convergencia alcanzada en {i} iteraciones")
             break
 
-    
     print(f"Iteraciones: {i}")
     print(f"El valor aproximado de la raiz es: {c}")
     print(f"El valor de f(c) es: ({f(c)})")
